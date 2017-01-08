@@ -11,3 +11,7 @@ your podcast app.
 
 If you would like me to add any podcasts to the list, please create an
 Issue in Github with the podcast url and brief description.
+
+# export.py
+This is a very simple python script to export scripts from the .opml
+file into a table.
