@@ -5,7 +5,7 @@ phone.
 The exported opml file from PocketCasts is
 available  [here](podcasts_opml.xml).
 
-I have also generated a table that list each podcast, with its related
+I have also generated a [table](podcasts.org) that list each podcast, with its related
 url. You should be able to use this to import individual podcasts into
 your podcast app.
 
