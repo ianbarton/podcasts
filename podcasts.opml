@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<opml version="1.0">
+  <head>
+    <title>Pocket Casts Feeds</title>
+  </head>
+  <body>
+    <outline text="feeds">
+      <outline type="rss" text="The Outdoors Station - Audio" xmlUrl="http://toc.hipcast.com/rss/audio2.xml" />
+      <outline type="rss" text="361 Podcast" xmlUrl="http://feeds.feedburner.com/361Degrees" />
+      <outline type="rss" text="Revolutions" xmlUrl="http://revolutionspodcast.libsyn.com/rss" />
+      <outline type="rss" text="Escape Pod" xmlUrl="http://feeds2.feedburner.com/EscapePod" />
+      <outline type="rss" text="Linux Voice Podcast" xmlUrl="https://www.linuxvoice.com/podcast_mp3.rss" />
+      <outline type="rss" text="MobileTechRoundup" xmlUrl="http://feeds.feedburner.com/motr" />
+      <outline type="rss" text="The Voicemail" xmlUrl="http://thevoicemail.libsyn.com/rss" />
+      <outline type="rss" text="Mountain" xmlUrl="http://mountainpodcast.com/feed/podcast/" />
+      <outline type="rss" text="Profile" xmlUrl="https://podcasts.files.bbci.co.uk/b006qjz5.rss" />
+      <outline type="rss" text="The Media Show" xmlUrl="https://podcasts.files.bbci.co.uk/b00dv9hq.rss" />
+      <outline type="rss" text="In Alistair Cooke's Footsteps" xmlUrl="https://podcasts.files.bbci.co.uk/b01nvc8h.rss" />
+      <outline type="rss" text="The Naked Scientists Podcast" xmlUrl="https://www.thenakedscientists.com/naked_scientists_podcast.xml" />
+      <outline type="rss" text="Bad Voltage" xmlUrl="http://www.badvoltage.org/feed/mp3/" />
+      <outline type="rss" text="The Command Line Podcast" xmlUrl="http://feeds2.feedburner.com/cmdln" />
+      <outline type="rss" text="GitMinutes" xmlUrl="http://feeds.gitminutes.com/gitminutes-podcast" />
+      <outline type="rss" text="Don't Log Off" xmlUrl="https://podcasts.files.bbci.co.uk/b01jxzy9.rss" />
+      <outline type="rss" text="Phones Show Chat" xmlUrl="http://stevelitchfield.com/sshow/sshowchat.rss" />
+      <outline type="rss" text="Drama of the Week" xmlUrl="https://podcasts.files.bbci.co.uk/p02nrv5m.rss" />
+      <outline type="rss" text="In Our Time" xmlUrl="https://podcasts.files.bbci.co.uk/b006qykl.rss" />
+      <outline type="rss" text="Gav &amp; Dave's Tech Podcast" xmlUrl="http://GGUKMT.podbean.com/feed/" />
+      <outline type="rss" text="Going Linux" xmlUrl="http://goinglinux.com/mp3podcast.xml" />
+      <outline type="rss" text="Knightwise.com Audio Feed." xmlUrl="http://feeds.feedburner.com/knightcastpodcast" />
+      <outline type="rss" text="Show-mp3 – Sunday Morning Linux Review" xmlUrl="http://smlr.us/?feed=rss2&amp;cat=4" />
+      <outline type="rss" text="Books and Authors" xmlUrl="https://podcasts.files.bbci.co.uk/p02nrsfl.rss" />
+      <outline type="rss" text="All About Symbian Podcast" xmlUrl="http://rss.allaboutsymbian.com/media/podcastfeed.xml" />
+      <outline type="rss" text="Start the Week" xmlUrl="https://podcasts.files.bbci.co.uk/b006r9xr.rss" />
+      <outline type="rss" text="Open Country" xmlUrl="https://podcasts.files.bbci.co.uk/b006qgft.rss" />
+      <outline type="rss" text="The PC Pro podcast" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:243641157/sounds.rss" />
+      <outline type="rss" text="ITV Sport" xmlUrl="http://feeds.soundcloud.com/users/soundcloud:users:237444090/sounds.rss" />
+      <outline type="rss" text="MP3 – Linux Luddites" xmlUrl="http://feeds.feedburner.com/LinuxLudditesMP3" />
+      <outline type="rss" text="Shake and Blake" xmlUrl="http://www.earth-2.net/podcasts/shakeandblake/rss.xml" />
+      <outline type="rss" text="The Public Philosopher" xmlUrl="https://podcasts.files.bbci.co.uk/b01nmlh2.rss" />
+      <outline type="rss" text="Mostly Android" xmlUrl="http://kevin-wright-ptbu.squarespace.com/blog/?format=rss" />
+      <outline type="rss" text="The History of Rome" xmlUrl="http://historyofrome.libsyn.com/rss" />
+      <outline type="rss" text="Linux Outlaws" xmlUrl="http://feeds.feedburner.com/linuxoutlaws" />
+      <outline type="rss" text="Friday Night Comedy from BBC Radio 4" xmlUrl="https://podcasts.files.bbci.co.uk/p02pc9pj.rss" />
+      <outline type="rss" text="mintCast" xmlUrl="https://mintcast.org/category/mp3/feed/" />
+      <outline type="rss" text="Farming Today" xmlUrl="https://podcasts.files.bbci.co.uk/b006qj8q.rss" />
+      <outline type="rss" text="Linux in the Ham Shack" xmlUrl="http://lhspodcast.info/category/podcast-mp3/feed" />
+      <outline type="rss" text="The Pi Podcast" xmlUrl="http://feeds.feedburner.com/thepipodcast" />
+      <outline type="rss" text="Tech Tent" xmlUrl="https://podcasts.files.bbci.co.uk/p01plr2p.rss" />
+      <outline type="rss" text="The Retro Tech Addict's podcast" xmlUrl="http://retrotechaddicts.libsyn.com/rss" />
+      <outline type="rss" text="The Cycling Podcast" xmlUrl="http://audioboom.com/channels/1405050.rss" />
+      <outline type="rss" text="FLOSS Weekly (MP3)" xmlUrl="http://leoville.tv/podcasts/floss.xml" />
+      <outline type="rss" text="ITV Tour de France Podcast" xmlUrl="http://downloads.itv.com/podcasttdf.xml" />
+      <outline type="rss" text="In Our Time: Science" xmlUrl="https://podcasts.files.bbci.co.uk/p01gyd7j.rss" />
+      <outline type="rss" text="The Linux Action Show! MP3" xmlUrl="http://feeds.feedburner.com/TheLinuxActionShow" />
+      <outline type="rss" text="The Tech Addicts Podcast" xmlUrl="http://mobiletechaddicts.libsyn.com/rss" />
+      <outline type="rss" text="Projector Room" xmlUrl="http://stevelitchfield.com/projector/projectorroom.rss" />
+      <outline type="rss" text="The Phones Show (MP4 version)" xmlUrl="http://stevelitchfield.com/sshow/sshowvga.rss" />
+      <outline type="rss" text="From Our Own Correspondent Podcast" xmlUrl="https://podcasts.files.bbci.co.uk/p02nrtpm.rss" />
+      <outline type="rss" text="TuxRadar Linux Podcast (mp3)" xmlUrl="http://www.tuxradar.com/files/podcast/podcast_mp3.rss" />
+      <outline type="rss" text="Thinking Allowed" xmlUrl="https://podcasts.files.bbci.co.uk/b006qy05.rss" />
+      <outline type="rss" text="The Fall of Rome Podcast" xmlUrl="https://rss.art19.com/the-fall-of-rome-podcast" />
+      <outline type="rss" text="Our Man in the Middle East" xmlUrl="https://podcasts.files.bbci.co.uk/b08rmkcd.rss" />
+      <outline type="rss" text="The R-Podcast MP3 Feed" xmlUrl="http://r-podcast.org/feed/podcast" />
+      <outline type="rss" text="Whatever Works" xmlUrl="http://www.whateverworks.audio/episodes?format=rss" />
+      <outline type="rss" text="tvmountain" xmlUrl="http://podsync.net/wbpi" />
+      <outline type="rss" text="The Changelog" xmlUrl="https://changelog.com/podcast/feed" />
+      <outline type="rss" text="The TechBox" xmlUrl="https://www.thetechbox.net/podcasts?format=rss" />
+      <outline type="rss" text="The Blerg" xmlUrl="http://chrislacy.libsyn.com/feed" />
+      <outline type="rss" text="Ubuntu Podcast" xmlUrl="http://ubuntupodcast.org/feed/podcast" />
+      <outline type="rss" text="TheRaspberryPiGuy" xmlUrl="http://podsync.net/2q0w" />
+      <outline type="rss" text="All About Windows Phone Insight Podcast" xmlUrl="HTTP://rss.allaboutwindowsphone.com/media-feed.xml" />
+      <outline type="rss" text="Great Lives" xmlUrl="https://podcasts.files.bbci.co.uk/b006qxsb.rss" />
+      <outline type="rss" text="Vector" xmlUrl="http://feeds.feedburner.com/vectorshow" />
+      <outline type="rss" text="Comedy of the Week" xmlUrl="https://podcasts.files.bbci.co.uk/p02pc9x6.rss" />
+      <outline type="rss" text="TechTalkUK" xmlUrl="http://kevwright.podbean.com/feed/" />
+    </outline>
+  </body>
+</opml>
