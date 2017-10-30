@@ -54,6 +54,7 @@
       <outline type="rss" text="The Linux Action Show! MP3" xmlUrl="http://feeds.feedburner.com/TheLinuxActionShow" />
       <outline type="rss" text="The Tech Addicts Podcast" xmlUrl="http://mobiletechaddicts.libsyn.com/rss" />
       <outline type="rss" text="Projector Room" xmlUrl="http://stevelitchfield.com/projector/projectorroom.rss" />
+      <outline type="rss" text="Developer Tea" xmlUrl="https://rss.simplecast.com/podcasts/363/rss" />
       <outline type="rss" text="The Phones Show (MP4 version)" xmlUrl="http://stevelitchfield.com/sshow/sshowvga.rss" />
       <outline type="rss" text="From Our Own Correspondent Podcast" xmlUrl="https://podcasts.files.bbci.co.uk/p02nrtpm.rss" />
       <outline type="rss" text="TuxRadar Linux Podcast (mp3)" xmlUrl="http://www.tuxradar.com/files/podcast/podcast_mp3.rss" />
@@ -62,12 +63,12 @@
       <outline type="rss" text="Our Man in the Middle East" xmlUrl="https://podcasts.files.bbci.co.uk/b08rmkcd.rss" />
       <outline type="rss" text="The R-Podcast MP3 Feed" xmlUrl="http://r-podcast.org/feed/podcast" />
       <outline type="rss" text="Whatever Works" xmlUrl="http://www.whateverworks.audio/episodes?format=rss" />
-      <outline type="rss" text="tvmountain" xmlUrl="http://podsync.net/wbpi" />
+      <outline type="rss" text="tvmountain" xmlUrl="https://podsync.net/wbpi" />
       <outline type="rss" text="The Changelog" xmlUrl="https://changelog.com/podcast/feed" />
       <outline type="rss" text="The TechBox" xmlUrl="https://www.thetechbox.net/podcasts?format=rss" />
       <outline type="rss" text="The Blerg" xmlUrl="http://chrislacy.libsyn.com/feed" />
       <outline type="rss" text="Ubuntu Podcast" xmlUrl="http://ubuntupodcast.org/feed/podcast" />
-      <outline type="rss" text="TheRaspberryPiGuy" xmlUrl="http://podsync.net/2q0w" />
+      <outline type="rss" text="TheRaspberryPiGuy" xmlUrl="https://podsync.net/2q0w" />
       <outline type="rss" text="All About Windows Phone Insight Podcast" xmlUrl="HTTP://rss.allaboutwindowsphone.com/media-feed.xml" />
       <outline type="rss" text="Great Lives" xmlUrl="https://podcasts.files.bbci.co.uk/b006qxsb.rss" />
       <outline type="rss" text="Vector" xmlUrl="http://feeds.feedburner.com/vectorshow" />
