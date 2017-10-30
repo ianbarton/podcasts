@@ -1,66 +1,66 @@
 |-----------------------------------------------------------------------------+------------------------------------------------------|
 | url                                                                         | Title                                                |
 |-----------------------------------------------------------------------------+------------------------------------------------------|
-| b'http://toc.hipcast.com/rss/audio2.xml'                                    | b'The Outdoors Station - Audio'                      |
-| b'http://feeds.feedburner.com/361Degrees'                                   | b'361 Podcast'                                       |
-| b'http://feeds2.feedburner.com/EscapePod'                                   | b'Escape Pod'                                        |
-| b'http://www.linuxvoice.com/podcast_mp3.rss'                                | b'Linux Voice Podcast'                               |
-| b'http://feeds.feedburner.com/motr'                                         | b'MobileTechRoundup'                                 |
-| b'http://thevoicemail.libsyn.com/rss'                                       | b'The Voicemail'                                     |
-| b'http://mountainpodcast.com/feed/podcast/'                                 | b'Mountain'                                          |
-| b'http://www.bbc.co.uk/programmes/b006qjz5/episodes/downloads.rss'          | b'Profile'                                           |
-| b'http://www.bbc.co.uk/programmes/b00dv9hq/episodes/downloads.rss'          | b'The Media Show'                                    |
-| b'http://www.bbc.co.uk/programmes/b01nvc8h/episodes/downloads.rss'          | b"In Alistair Cooke's Footsteps"                     |
-| b'https://www.thenakedscientists.com/naked_scientists_podcast.xml'          | b'The Naked Scientists Podcast'                      |
-| b'http://www.badvoltage.org/feed/mp3/'                                      | b'Bad Voltage'                                       |
-| b'http://feeds2.feedburner.com/cmdln'                                       | b'The Command Line Podcast'                          |
-| b'http://feeds.gitminutes.com/gitminutes-podcast'                           | b'GitMinutes'                                        |
-| b'http://techtalkuk.com/ttukpodcast.rss'                                    | b'Tech Talk UK'                                      |
-| b'http://www.bbc.co.uk/programmes/b01jxzy9/episodes/downloads.rss'          | b"Don't Log Off"                                     |
-| b'http://stevelitchfield.com/sshow/sshowchat.rss'                           | b'Phones Show Chat'                                  |
-| b'http://www.bbc.co.uk/programmes/p02nrv5m/episodes/downloads.rss'          | b'Drama of the Week'                                 |
-| b'http://www.bbc.co.uk/programmes/b006qykl/episodes/downloads.rss'          | b'In Our Time'                                       |
-| b'http://GGUKMT.podbean.com/feed/'                                          | b"Gav & Dave's Tech Podcast"                         |
-| b'http://goinglinux.com/mp3podcast.xml'                                     | b'Going Linux'                                       |
-| b'http://feeds.feedburner.com/knightcastpodcast'                            | b'Knightwise.com Audio Feed.'                        |
-| b'http://smlr.us/?feed=rss2&cat=4'                                          | b'Show-mp3 \xe2\x80\x93 Sunday Morning Linux Review' |
-| b'http://www.bbc.co.uk/programmes/b006r9xr/episodes/downloads.rss'          | b'Start the Week'                                    |
-| b'http://rss.allaboutsymbian.com/media/podcastfeed.xml'                     | b'All About Symbian Podcast'                         |
-| b'http://www.bbc.co.uk/programmes/p02nrsfl/episodes/downloads.rss'          | b'Books and Authors'                                 |
-| b'http://www.bbc.co.uk/programmes/b006qgft/episodes/downloads.rss'          | b'Open Country'                                      |
-| b'http://feeds.soundcloud.com/users/soundcloud:users:237444090/sounds.rss'  | b'ITV Sport'                                         |
-| b'http://feeds.soundcloud.com/users/soundcloud:users:243641157/sounds.rss?' | b'The PC Pro podcast'                                |
-| b'http://feeds.feedburner.com/LinuxLudditesMP3'                             | b'MP3 \xe2\x80\x93 Linux Luddites'                   |
-| b'http://www.bbc.co.uk/programmes/b01nmlh2/episodes/downloads.rss'          | b'The Public Philosopher'                            |
-| b'http://kevin-wright-ptbu.squarespace.com/blog/?format=rss'                | b'Mostly Android'                                    |
-| b'http://feeds.feedburner.com/linuxoutlaws'                                 | b'Linux Outlaws'                                     |
-| b'http://www.bbc.co.uk/programmes/p02pc9pj/episodes/downloads.rss'          | b'Friday Night Comedy from BBC Radio 4'              |
-| b'https://mintcast.org/category/mp3/feed/'                                  | b'mintCast'                                          |
-| b'http://www.bbc.co.uk/programmes/b006qj8q/episodes/downloads.rss'          | b'Farming Today'                                     |
-| b'http://lhspodcast.info/category/podcast-mp3/feed'                         | b'Linux in the Ham Shack'                            |
-| b'http://feeds.feedburner.com/thepipodcast'                                 | b'The Pi Podcast'                                    |
-| b'http://www.bbc.co.uk/programmes/p01plr2p/episodes/downloads.rss'          | b'Tech Tent'                                         |
-| b'http://retrotechaddicts.libsyn.com/rss'                                   | b"The Retro Tech Addict's podcast"                   |
-| b'http://audioboom.com/channels/1405050.rss'                                | b'The Telegraph Cycling Podcast'                     |
-| b'http://leoville.tv/podcasts/floss.xml'                                    | b'FLOSS Weekly (MP3)'                                |
-| b'http://downloads.itv.com/podcasttdf.xml'                                  | b'ITV Tour de France Podcast'                        |
-| b'http://www.bbc.co.uk/programmes/p01gyd7j/episodes/downloads.rss'          | b'In Our Time: Science'                              |
-| b'http://feeds.feedburner.com/TheLinuxActionShow'                           | b'The Linux Action Show! MP3'                        |
-| b'http://mobiletechaddicts.libsyn.com/rss'                                  | b'The Tech Addicts Podcast'                          |
-| b'http://stevelitchfield.com/projector/projectorroom.rss'                   | b'Projector Room'                                    |
-| b'http://www.tuxradar.com/files/podcast/podcast_mp3.rss'                    | b'TuxRadar Linux Podcast (mp3)'                      |
-| b'http://stevelitchfield.com/sshow/sshowvga.rss'                            | b'The Phones Show (MP4 version)'                     |
-| b'http://www.bbc.co.uk/programmes/p02nrtpm/episodes/downloads.rss'          | b'From Our Own Correspondent Podcast'                |
-| b'http://www.bbc.co.uk/programmes/b006qy05/episodes/downloads.rss'          | b'Thinking Allowed'                                  |
-| b'http://r-podcast.org/feed/podcast'                                        | b'The R-Podcast MP3 Feed'                            |
-| b'http://www.whateverworks.audio/episodes?format=rss'                       | b'Whatever Works'                                    |
-| b'http://podsync.net/wbpi'                                                  | b'tvmountain'                                        |
-| b'https://changelog.com/podcast/feed'                                       | b'The Changelog'                                     |
-| b'http://theblerg.net/podcast/rss'                                          | b'The Blerg'                                         |
-| b'http://ubuntupodcast.org/feed/podcast'                                    | b'Ubuntu Podcast'                                    |
-| b'http://podsync.net/2q0w'                                                  | b'TheRaspberryPiGuy'                                 |
-| b'HTTP://rss.allaboutwindowsphone.com/media-feed.xml'                       | b'All About Windows Phone Insight Podcast'           |
-| b'http://www.bbc.co.uk/programmes/b006qxsb/episodes/downloads.rss'          | b'Great Lives'                                       |
-| b'http://feeds.feedburner.com/vectorshow'                                   | b'Vector'                                            |
-| b'http://www.bbc.co.uk/programmes/p02pc9x6/episodes/downloads.rss'          | b'Comedy of the Week'                                |
+| http://toc.hipcast.com/rss/audio2.xml'                                    | The Outdoors Station - Audio'                      |
+| http://feeds.feedburner.com/361Degrees'                                   | 361 Podcast'                                       |
+| http://feeds2.feedburner.com/EscapePod'                                   | Escape Pod'                                        |
+| http://www.linuxvoice.com/podcast_mp3.rss'                                | Linux Voice Podcast'                               |
+| http://feeds.feedburner.com/motr'                                         | MobileTechRoundup'                                 |
+| http://thevoicemail.libsyn.com/rss'                                       | The Voicemail'                                     |
+| http://mountainpodcast.com/feed/podcast/'                                 | Mountain'                                          |
+| http://www.bbc.co.uk/programmes/b006qjz5/episodes/downloads.rss'          | Profile'                                           |
+| http://www.bbc.co.uk/programmes/b00dv9hq/episodes/downloads.rss'          | The Media Show'                                    |
+| http://www.bbc.co.uk/programmes/b01nvc8h/episodes/downloads.rss'          | b"In Alistair Cooke's Footsteps"                     |
+| https://www.thenakedscientists.com/naked_scientists_podcast.xml'          | The Naked Scientists Podcast'                      |
+| http://www.badvoltage.org/feed/mp3/'                                      | Bad Voltage'                                       |
+| http://feeds2.feedburner.com/cmdln'                                       | The Command Line Podcast'                          |
+| http://feeds.gitminutes.com/gitminutes-podcast'                           | GitMinutes'                                        |
+| http://techtalkuk.com/ttukpodcast.rss'                                    | Tech Talk UK'                                      |
+| http://www.bbc.co.uk/programmes/b01jxzy9/episodes/downloads.rss'          | b"Don't Log Off"                                     |
+| http://stevelitchfield.com/sshow/sshowchat.rss'                           | Phones Show Chat'                                  |
+| http://www.bbc.co.uk/programmes/p02nrv5m/episodes/downloads.rss'          | Drama of the Week'                                 |
+| http://www.bbc.co.uk/programmes/b006qykl/episodes/downloads.rss'          | In Our Time'                                       |
+| http://GGUKMT.podbean.com/feed/'                                          | b"Gav & Dave's Tech Podcast"                         |
+| http://goinglinux.com/mp3podcast.xml'                                     | Going Linux'                                       |
+| http://feeds.feedburner.com/knightcastpodcast'                            | Knightwise.com Audio Feed.'                        |
+| http://smlr.us/?feed=rss2&cat=4'                                          | Show-mp3 \xe2\x80\x93 Sunday Morning Linux Review' |
+| http://www.bbc.co.uk/programmes/b006r9xr/episodes/downloads.rss'          | Start the Week'                                    |
+| http://rss.allaboutsymbian.com/media/podcastfeed.xml'                     | All About Symbian Podcast'                         |
+| http://www.bbc.co.uk/programmes/p02nrsfl/episodes/downloads.rss'          | Books and Authors'                                 |
+| http://www.bbc.co.uk/programmes/b006qgft/episodes/downloads.rss'          | Open Country'                                      |
+| http://feeds.soundcloud.com/users/soundcloud:users:237444090/sounds.rss'  | ITV Sport'                                         |
+| http://feeds.soundcloud.com/users/soundcloud:users:243641157/sounds.rss?' | The PC Pro podcast'                                |
+| http://feeds.feedburner.com/LinuxLudditesMP3'                             | MP3 \xe2\x80\x93 Linux Luddites'                   |
+| http://www.bbc.co.uk/programmes/b01nmlh2/episodes/downloads.rss'          | The Public Philosopher'                            |
+| http://kevin-wright-ptbu.squarespace.com/blog/?format=rss'                | Mostly Android'                                    |
+| http://feeds.feedburner.com/linuxoutlaws'                                 | Linux Outlaws'                                     |
+| http://www.bbc.co.uk/programmes/p02pc9pj/episodes/downloads.rss'          | Friday Night Comedy from BBC Radio 4'              |
+| https://mintcast.org/category/mp3/feed/'                                  | mintCast'                                          |
+| http://www.bbc.co.uk/programmes/b006qj8q/episodes/downloads.rss'          | Farming Today'                                     |
+| http://lhspodcast.info/category/podcast-mp3/feed'                         | Linux in the Ham Shack'                            |
+| http://feeds.feedburner.com/thepipodcast'                                 | The Pi Podcast'                                    |
+| http://www.bbc.co.uk/programmes/p01plr2p/episodes/downloads.rss'          | Tech Tent'                                         |
+| http://retrotechaddicts.libsyn.com/rss'                                   | b"The Retro Tech Addict's podcast"                   |
+| http://audioboom.com/channels/1405050.rss'                                | The Telegraph Cycling Podcast'                     |
+| http://leoville.tv/podcasts/floss.xml'                                    | FLOSS Weekly (MP3)'                                |
+| http://downloads.itv.com/podcasttdf.xml'                                  | ITV Tour de France Podcast'                        |
+| http://www.bbc.co.uk/programmes/p01gyd7j/episodes/downloads.rss'          | In Our Time: Science'                              |
+| http://feeds.feedburner.com/TheLinuxActionShow'                           | The Linux Action Show! MP3'                        |
+| http://mobiletechaddicts.libsyn.com/rss'                                  | The Tech Addicts Podcast'                          |
+| http://stevelitchfield.com/projector/projectorroom.rss'                   | Projector Room'                                    |
+| http://www.tuxradar.com/files/podcast/podcast_mp3.rss'                    | TuxRadar Linux Podcast (mp3)'                      |
+| http://stevelitchfield.com/sshow/sshowvga.rss'                            | The Phones Show (MP4 version)'                     |
+| http://www.bbc.co.uk/programmes/p02nrtpm/episodes/downloads.rss'          | From Our Own Correspondent Podcast'                |
+| http://www.bbc.co.uk/programmes/b006qy05/episodes/downloads.rss'          | Thinking Allowed'                                  |
+| http://r-podcast.org/feed/podcast'                                        | The R-Podcast MP3 Feed'                            |
+| http://www.whateverworks.audio/episodes?format=rss'                       | Whatever Works'                                    |
+| http://podsync.net/wbpi'                                                  | tvmountain'                                        |
+| https://changelog.com/podcast/feed'                                       | The Changelog'                                     |
+| http://theblerg.net/podcast/rss'                                          | The Blerg'                                         |
+| http://ubuntupodcast.org/feed/podcast'                                    | Ubuntu Podcast'                                    |
+| http://podsync.net/2q0w'                                                  | TheRaspberryPiGuy'                                 |
+| http://rss.allaboutwindowsphone.com/media-feed.xml'                       | All About Windows Phone Insight Podcast'           |
+| http://www.bbc.co.uk/programmes/b006qxsb/episodes/downloads.rss'          | Great Lives'                                       |
+| http://feeds.feedburner.com/vectorshow'                                   | Vector'                                            |
+| http://www.bbc.co.uk/programmes/p02pc9x6/episodes/downloads.rss'          | Comedy of the Week'                                |
 |-----------------------------------------------------------------------------+------------------------------------------------------|
